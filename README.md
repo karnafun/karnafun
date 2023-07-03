@@ -5,15 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karnafun&show_icons=true&show=reviews%theme=darkone,contribs,prs)](https://karnafun.github.io)
+
+
+
+- 👯 I’m looking to collaborate on gaming projects.
+- 💬 Ask me about C#, Python, Javascript, Architecture and Infrastructure as a code
+- 📫 How to reach me: danaidor@gmail.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karnafun&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karnafun&repo=cSharp_Space_Shooter)](https://github.com/anuraghazra/github-readme-stats)
