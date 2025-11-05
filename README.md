@@ -1,3 +1,5 @@
+💼 I build backend APIs & integrate external services (Node.js, Python, C#)
+Hire me: [[Fiverr link](http://www.fiverr.com/s/NNKV0VG)]
 
 - 👯 I’m looking to collaborate on gaming projects.
 - 💬 Ask me about C#, Python, Javascript, Architecture and Infrastructure as a code
