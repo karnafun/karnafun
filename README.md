@@ -13,7 +13,7 @@ Focus areas: APIs that scale, integrate, and remain maintainable.
 
 ## OAuth2 Protected API Demo  
 Two-project solution: authorization server (IdentityServer) + protected API (ASP.NET Core). Demonstrates full token flow, JWT validation, scopes & audiences.  
-🔗 [GitHub](https://github.com/karnafun/identityserver-oauth2-demo)  
+🔗 [identityserver-oauth2-demo](https://github.com/karnafun/identityserver-oauth2-demo)  
 
 ## JSON→Excel & CSV Utilities  
 Custom tools published on Gumroad & Lemon Squeezy for data transformation. Built, monetized, and marketed end-to-end.  
