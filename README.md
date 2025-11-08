@@ -17,14 +17,14 @@ Two-project solution: authorization server (IdentityServer) + protected API (ASP
 
 ## JSON→Excel & CSV Utilities  
 Custom tools published on Gumroad & Lemon Squeezy for data transformation. Built, monetized, and marketed end-to-end.  
-🔗 [Portfolio / Tools](https://karnafun.com)  
+🔗 [Portfolio / Tools](https://www.karnafun.com)  
 
 ---
 
 # 📬 Let’s Collaborate  
 Available for freelance or contract work in **API design, backend architecture, and secure DevOps workflows**.  
 ✉️ danaidor@gmail.com  
-🌐 [Portfolio](https://karnafun.com)  
+🌐 [Portfolio](https://www.karnafun.com)  
 🎯 [Fiverr](https://www.fiverr.com/s/NNKV0VG) | [Upwork](https://www.upwork.com/freelancers/~01df2d177c2efab50b)
 
 ---
