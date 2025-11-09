@@ -15,6 +15,10 @@ Focus areas: APIs that scale, integrate, and remain maintainable.
 Two-project solution: authorization server (IdentityServer) + protected API (ASP.NET Core). Demonstrates full token flow, JWT validation, scopes & audiences.  
 🔗 [identityserver-oauth2-demo](https://github.com/karnafun/identityserver-oauth2-demo)  
 
+## Stripe Checkout Integration Demo  
+ASP.NET Core payment integration handling webhooks, race conditions, and asynchronous payment flows. Shows atomic state transitions and proper webhook verification for production-grade processing.  
+🔗 [stripe-checkout-aspnet-demo](https://github.com/karnafun/stripe-checkout-aspnet-demo)
+
 ## JSON→Excel & CSV Utilities  
 Custom tools published on Gumroad & Lemon Squeezy for data transformation. Built, monetized, and marketed end-to-end.  
 🔗 [Portfolio / Tools](https://www.karnafun.com)  
